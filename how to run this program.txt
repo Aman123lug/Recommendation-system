@@ -1,0 +1,12 @@
+Aman Kumar
+Roll No 1913111006
+Movie Recommendation System
+
+
+Step 1 : Go to your terminal in your IDE.
+Step 2 : Type this commend "streamlit run recommend.py"
+Step 3 : Enter your email if run this first time.
+Step 4 : Wait some seconds..
+
+
+if want to see which data and how is preprocess or analysis open recommendation system.ipynb in jupyter notebook
