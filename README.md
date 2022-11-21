@@ -15,7 +15,7 @@ I'm a Data Science Aspirant 💻, ML Engineer 📸, and Designer 🎨!
  If you don't know how a streamlit app runs go and read how to run this program.txt file.
  ```
 
- <img src=" file:///home/user/recommender/recommand/RecommderSystem/image.png" alt="Alt text" title="Optional title">
+ <img src="image.png" alt="Alt text" title="Optional title">
 
  ## Here are my Recommender System Looks Like
 
