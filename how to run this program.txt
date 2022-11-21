@@ -2,7 +2,7 @@ Aman Kumar
 Roll No 1913111006
 Movie Recommendation System
 
-
+pip install -r requirements.txt 
 Step 1 : Go to your terminal in your IDE.
 Step 2 : Type this commend "streamlit run recommend.py"
 Step 3 : Enter your email if run this first time.
