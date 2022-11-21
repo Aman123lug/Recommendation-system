@@ -21,7 +21,9 @@ I'm a Data Science Aspirant 💻, ML Engineer 📸, and Designer 🎨!
 
  <!-- want to this data check the file  -->
 
+for full code of data
 
+[click here](https://drive.google.com/file/d/1rZ_pBwia1zVb5TriH2RChCj6Dy2ZmEnO/view?usp=drivesdk)
 
 
 
